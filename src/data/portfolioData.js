@@ -522,8 +522,8 @@ export const projects = [
     },
     tech: ['IoT', 'Renewable Energy', 'Data Analytics', 'Sustainability', 'Smart Sensors'],
     achievement: {
-      en: '1st Place - Aygaz Hackathon & W-Energy Advanced Entrepreneurship',
-      tr: '1. Lik - Aygaz Hackathon & W-Energy İleri Girişimcilik'
+      en: '3st Place - Aygaz Hackathon & W-Energy Advanced Entrepreneurship',
+      tr: '3. Lük - Aygaz Hackathon & W-Energy İleri Girişimcilik'
     },
     category: {
       en: 'Clean Energy',
@@ -660,8 +660,8 @@ export const achievements = [
   },
   {
     title: {
-      en: 'Aygaz Hackathon Winner',
-      tr: 'Aygaz Hackathon Birincisi'
+      en: 'Aygaz Hackathon Third',
+      tr: 'Aygaz Hackathon Üçüncüsü'
     },
     organization: 'Aygaz A.Ş',
     year: '2024',

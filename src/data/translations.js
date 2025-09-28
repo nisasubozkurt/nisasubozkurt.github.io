@@ -237,7 +237,7 @@ export const translations = {
       title: 'Hakkımda',
       subtitle: 'Teknolojiyi gerçek dünya problemlerini çözmek ve endüstriler arası inovasyonu yönlendirmek için kullanma tutkum.',
       professionalExcellence: 'Profesyonel Mükemmellik',
-      professionalText: 'Fırat Üniversitesi Yazılım Mühendisliği mezunu, 3.6/4.0 not ortalaması ve okul 4.lüğü başarısı. Şu anda Lactalis Türkiye\'de yapay zeka inovasyonunu yönlendiriyor, TÜBİTAK iş birliği ile tedarik zinciri optimizasyonu ve dijital dönüşüm için makine öğrenmesi projelerine liderlik ediyorum.',
+      professionalText: 'Fırat Üniversitesi Yazılım Mühendisliği mezunu, 3.55/4.0 not ortalaması ve okul 4.lüğü başarısı. Şu anda Lactalis Türkiye\'de yapay zeka inovasyonunu yönlendiriyor, TÜBİTAK iş birliği ile tedarik zinciri optimizasyonu ve dijital dönüşüm için makine öğrenmesi projelerine liderlik ediyorum.',
       technicalExpertise: 'Teknik Uzmanlık',
       technicalText: 'Kurumsal seviye çözümler geliştirme konusunda uygulamalı deneyime sahip yapay zeka, makine öğrenmesi ve görüntü işleme uzmanı. Python, React, Flutter ve bulut teknolojilerinde yetkin, ölçeklenebilir ve yenilikçi yapay zeka uygulamaları yaratmaya odaklanıyorum.',
       education: 'Eğitim',
@@ -248,7 +248,7 @@ export const translations = {
       achievements: [
         'She LAB Finali - 1. Lik',
         'Google App Jam - 1. Lik',
-        'Aygaz Hackathon - 1. Lik',
+        'Aygaz Hackathon - 3. Lük',
         'Google Bootcamp - İlk 7 Finalist',
         'Üniversite 4. Sıra Mezuniyeti'
       ],
