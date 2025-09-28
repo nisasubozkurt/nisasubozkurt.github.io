@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nisasubozkurt.github.io/static/css/main.6b8eed5b.css",
-    "main.js": "/nisasubozkurt.github.io/static/js/main.2be5f903.js",
+    "main.js": "/nisasubozkurt.github.io/static/js/main.c177f666.js",
     "static/media/nisasu_bozkurt.jpg": "/nisasubozkurt.github.io/static/media/nisasu_bozkurt.a2c92896c982e9eff763.jpg",
     "index.html": "/nisasubozkurt.github.io/index.html",
     "main.6b8eed5b.css.map": "/nisasubozkurt.github.io/static/css/main.6b8eed5b.css.map",
-    "main.2be5f903.js.map": "/nisasubozkurt.github.io/static/js/main.2be5f903.js.map"
+    "main.c177f666.js.map": "/nisasubozkurt.github.io/static/js/main.c177f666.js.map"
   },
   "entrypoints": [
     "static/css/main.6b8eed5b.css",
-    "static/js/main.2be5f903.js"
+    "static/js/main.c177f666.js"
   ]
 }
