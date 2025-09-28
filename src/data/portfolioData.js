@@ -14,7 +14,7 @@ export const personalInfo = {
     en: "Trabzon",
     tr: "Trabzon"
   },
-  gpa: "3.6/4.0",
+  gpa: "3.55/4.0",
   university: {
     en: "Fırat University",
     tr: "Fırat Üniversitesi"
@@ -43,7 +43,7 @@ export const stats = [
   },
   {
     label: { en: 'Years Experience', tr: 'Yıl Deneyim' },
-    value: '3+',
+    value: '1+',
     icon: 'TrendingUp'
   },
   {
@@ -62,8 +62,8 @@ export const skills = [
     items: [
       { name: { en: 'Machine Learning', tr: 'Makine Öğrenmesi' }, level: 95 },
       { name: { en: 'Deep Learning', tr: 'Derin Öğrenme' }, level: 90 },
-      { name: { en: 'Computer Vision', tr: 'Görüntü İşleme' }, level: 88 },
-      { name: { en: 'LLM & RAG', tr: 'LLM ve RAG' }, level: 85 },
+      { name: { en: 'Computer Vision', tr: 'Görüntü İşleme' }, level: 90 },
+      { name: { en: 'LLM & RAG', tr: 'LLM ve RAG' }, level: 95 },
       { name: 'TensorFlow', level: 87 }
     ],
     icon: 'Brain',
@@ -76,10 +76,10 @@ export const skills = [
     },
     items: [
       { name: 'Python', level: 92 },
-      { name: 'React', level: 85 },
-      { name: 'Flutter/Dart', level: 88 },
+      { name: 'React', level: 70 },
+      { name: 'Flutter/Dart', level: 75 },
       { name: 'C# ASP.Net', level: 80 },
-      { name: 'JavaScript', level: 83 }
+      { name: 'JavaScript', level: 65 }
     ],
     icon: 'Code',
     color: 'from-blue-500 to-cyan-500'
@@ -90,11 +90,11 @@ export const skills = [
       tr: 'Bulut ve Veritabanı'
     },
     items: [
-      { name: 'Azure AI Studio', level: 90 },
-      { name: 'Microsoft 365', level: 88 },
-      { name: { en: 'Database Design', tr: 'Veritabanı Tasarımı' }, level: 85 },
-      { name: 'DevOps', level: 75 },
-      { name: 'Git/GitHub', level: 92 }
+      { name: 'Azure AI Studio', level: 85 },
+      { name: 'Microsoft 365', level: 90 },
+      { name: { en: 'Database Design', tr: 'Veritabanı Tasarımı' }, level: 80 },
+      { name: 'DevOps', level: 65 },
+      { name: 'Git/GitHub', level: 95 }
     ],
     icon: 'Database',
     color: 'from-green-500 to-emerald-500'
@@ -106,10 +106,10 @@ export const skills = [
     },
     items: [
       { name: { en: 'Project Management', tr: 'Proje Yönetimi' }, level: 95 },
-      { name: { en: 'Team Leadership', tr: 'Takım Liderliği' }, level: 90 },
+      { name: { en: 'Team Leadership', tr: 'Takım Liderliği' }, level: 95 },
       { name: { en: 'Strategic Planning', tr: 'Stratejik Planlama' }, level: 85 },
-      { name: { en: 'Innovation Management', tr: 'İnovasyon Yönetimi' }, level: 88 },
-      { name: { en: 'Communication', tr: 'İletişim' }, level: 93 }
+      { name: { en: 'Innovation Management', tr: 'İnovasyon Yönetimi' }, level: 90 },
+      { name: { en: 'Communication', tr: 'İletişim' }, level: 95 }
     ],
     icon: 'Users',
     color: 'from-orange-500 to-red-500'
@@ -267,7 +267,8 @@ export const experiences = [
      highlights: {
        en: [
          'Product Owner & Lead Developer for HopiGreen Project',
-         'Revolutionary Sustainability Tracking System Development',
+         'Sustainability Tracking System Development',
+         'Recording and scoring users environmentally friendly habits (recycling, public transportation use, energy saving, etc.).',
          'AI & Blockchain Integration for Gamified Eco-Friendly Behaviors',
          'Boyner Group Loyalty App Integration',
          'IoT Integration for Real-time Sustainability Monitoring',
@@ -275,7 +276,8 @@ export const experiences = [
        ],
        tr: [
          'HopiGreen Projesi için Ürün Sahibi ve Baş Geliştirici',
-         'Devrimci Sürdürülebilirlik Takip Sistemi Geliştirme',
+         'Sürdürülebilirlik Takip Sistemi Geliştirme',
+         'Kullanıcıların çevre dostu alışkanlıklarını (geri dönüşüm, toplu taşıma kullanımı, enerji tasarrufu vb.) kayıt altına alıp puanlama.',
          'Oyunlaştırılmış Çevre Dostu Davranışlar için Yapay Zeka ve Blockchain Entegrasyonu',
          'Boyner Group Sadakat Uygulaması Entegrasyonu',
          'Gerçek Zamanlı Sürdürülebilirlik İzleme için IoT Entegrasyonu',
