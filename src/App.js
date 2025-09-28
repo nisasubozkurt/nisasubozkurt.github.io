@@ -13,6 +13,7 @@ import Footer from './components/Footer';
 import Certificates from './components/Certificates';
 import { useScrollspy, useScrollPosition, useScrollReveal } from './hooks/useScrollspy';
 import { navigationItems } from './data/portfolioData';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import './styles/globals.css';
 
 function AppContent() {
@@ -66,7 +67,12 @@ function App() {
   return (
     <ThemeProvider>
       <LanguageProvider>
-        <AppContent />
+        <Router>
+          <Routes>
+            <Route path="/" element={<AppContent />} />
+            <Route path="*" element={<AppContent />} />
+          </Routes>
+        </Router>
       </LanguageProvider>
     </ThemeProvider>
   );
