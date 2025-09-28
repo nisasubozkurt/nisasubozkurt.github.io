@@ -2,7 +2,7 @@
   "name": "nisasu-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://nisasubozkurt.github.io/nisasubozkurt.github.io",
+  "homepage": "https://nisasubozkurt.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -10,6 +10,7 @@
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^7.9.3",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
