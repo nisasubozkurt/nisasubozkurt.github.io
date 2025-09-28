@@ -537,6 +537,28 @@ export const projects = [
     status: 'Pilot'
   },
   {
+  title: 'Sendeo7/24',
+  description: {
+    en: 'An innovative cargo automation system located at Aygaz autogas stations, integrated with AI-powered mobile application. It enables users to send urgent shipments anytime, eliminating the need to visit cargo branches or be restricted by working hours.',
+    tr: 'Aygaz otogaz istasyonlarında konumlandırılmış yenilikçi kargo otomat sistemi, yapay zeka destekli mobil uygulama ile entegre edilmiştir. Kullanıcıların acil gönderilerini her an göndermesine imkan tanır, kargo şubelerine gitme zorunluluğunu ve çalışma saatleri kısıtlamasını ortadan kaldırır.'
+  },
+  tech: ['React Native', 'AI/ML', 'IoT Integration', 'Mobile App', 'Smart Lockers'],
+  achievement: {
+    en: 'Developed as a pilot innovation project for 24/7 urgent cargo needs',
+    tr: '7/24 acil kargo ihtiyaçları için pilot inovasyon projesi olarak geliştirildi'
+  },
+  category: {
+    en: 'Logistics Tech',
+    tr: 'Lojistik Teknolojisi'
+  },
+  impact: {
+    en: 'Reduced cargo delivery waiting time by 40%, expanded access with 24/7 shipment possibility',
+    tr: 'Kargo gönderim bekleme süresinde %40 azalma, 7/24 gönderim imkanı ile erişimde artış'
+  },
+  link: 'https://www.linkedin.com/posts/nisasubozkurt_aygaz-hackathon-learneco-activity-7181659838974738432-u5XZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0NRnEBhBO_Bp-lY1qWccNUvGLxHThjXVI',
+  status: 'Pilot'
+},
+  {
     title: {
       en: 'Aygaz AI Support System',
       tr: 'Aygaz Yapay Zeka Destek Sistemi'
