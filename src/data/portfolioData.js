@@ -235,8 +235,8 @@ export const experiences = [
       ]
     },
     impact: {
-      en: 'Developing solutions to improve accessibility for 5M+ hearing-impaired citizens',
-      tr: '5 milyon+ işitme engelli vatandaş için erişilebilirliği iyileştiren çözümler geliştiriyorum'
+      en: 'Developing solutions to improve accessibility for 1K+ hearing-impaired citizens',
+      tr: 'Binlerce işitme engelli vatandaş için erişilebilirliği iyileştiren çözümler geliştiriyorum'
     }
   },
   {
@@ -460,8 +460,8 @@ export const experiences = [
       tr: 'Staj'
     },
     description: {
-      en: 'Participated as a trainee in Denizbank\'s online internship program.',
-      tr: 'Denizbank\'un online stajyer programında katılımcı olarak yer aldım.'
+      en: 'During my internship in the Denizbank Overseas Program, I gained experience in banking processes and completed training in blockchain and other financial technologies, earning the relevant certifications.',
+      tr: 'Denizbank Denizaşırı Programı kapsamında staj yaparken bankacılık süreçlerinin yanı sıra blockchain ve diğer finansal teknolojiler üzerine eğitimler aldım ve ilgili sertifikaları kazandım.'
     },
     highlights: '#',
     impact: "#"
@@ -508,8 +508,8 @@ export const projects = [
       tr: 'Sosyal Etki'
     },
     impact: {
-      en: '1000+ hours of reading converted to animal shelter support, 500+ users',
-      tr: '1000+ saat okuma hayvan barınağı desteğine dönüştürüldü, 500+ kullanıcı'
+      en: 'Reading converted into meaningful support for animal shelters',
+      tr: 'Okuma, hayvan barınaklarına anlamlı destek sağlamak için dönüştürüldü'
     },
     link: 'https://www.linkedin.com/posts/nisasubozkurt_google-bootcamp2023-oyunveuygulamaakademisi-activity-7088386849953452032-kg2D/',
     status: 'Prototype'
@@ -599,8 +599,8 @@ export const projects = [
       tr: 'Erişilebilirlik Teknolojisi'
     },
     impact: {
-      en: 'Improving communication for 5M+ hearing-impaired citizens',
-      tr: '5 milyon+ işitme engelli vatandaş için iletişim iyileştirme'
+      en: 'Improving communication for 1K+ hearing-impaired citizens',
+      tr: 'Binlerce işitme engelli vatandaş için iletişim iyileştirme'
     },
     link: '#',
     status: 'Development'

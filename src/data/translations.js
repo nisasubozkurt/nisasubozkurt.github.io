@@ -16,11 +16,11 @@ export const translations = {
     hero: {
       availableForOpportunities: 'Available for opportunities',
       titles: [
-        'AI Specialist & Software Engineer',
-        'Machine Learning Expert',
-        'Computer Vision Developer',
-        'Enterprise AI Architect',
-        'Innovation Leader'
+        'Artificial Intelligence Assistant Specialist',
+        'Jr. Software Engineer',
+        'Machine Learning Developer',
+        'Image Processing Developer',
+        'Jr. Product Owner'
       ],
       description: 'Transforming industries through cutting-edge artificial intelligence solutions and innovative software development. Specialized in machine learning, computer vision, and enterprise AI systems.',
       viewMyWork: 'View My Work',
@@ -59,7 +59,7 @@ export const translations = {
         'Computer Vision',
         'LLM Development',
         'Mobile Apps',
-        'Cloud Solutions',
+        'Artificial Intelligence',
         'Project Leadership'
       ]
     },
@@ -180,6 +180,7 @@ export const translations = {
       email: 'Email',
       phone: 'Phone',
       linkedin: 'LinkedIn',
+      github: 'Github',
       connectWithMe: 'Connect with me',
       startConversation: 'Start a Conversation'
     },
@@ -215,11 +216,11 @@ export const translations = {
     hero: {
       availableForOpportunities: 'İş fırsatları için müsait',
       titles: [
-        'Yapay Zeka Uzmanı & Yazılım Mühendisi',
-        'Makine Öğrenmesi Uzmanı',
+        'Yapay Zeka Uzman Yardımcısı', 
+        'Jr. Yazılım Mühendisi',
+        'Makine Öğrenmesi Geliştiricisi',
         'Görüntü İşleme Geliştiricisi',
-        'Kurumsal Yapay Zeka Mimarı',
-        'İnovasyon Lideri'
+        'Jr. Product Owner'
       ],
       description: 'Son teknoloji yapay zeka çözümleri ve yenilikçi yazılım geliştirme ile endüstrileri dönüştürüyorum. Makine öğrenmesi, görüntü işleme ve kurumsal yapay zeka sistemlerinde uzmanlaştım.',
       viewMyWork: 'Çalışmalarımı İncele',
@@ -258,7 +259,7 @@ export const translations = {
         'Görüntü İşleme',
         'LLM Geliştirme',
         'Mobil Uygulamalar',
-        'Bulut Çözümleri',
+        'Yapay Zeka',
         'Proje Liderliği'
       ]
     },
@@ -338,6 +339,7 @@ export const translations = {
       email: 'E-posta',
       phone: 'Telefon',
       linkedin: 'LinkedIn',
+      github: 'Github',
       connectWithMe: 'Benimle bağlantı kur',
       startConversation: 'Konuşmaya Başla'
     },

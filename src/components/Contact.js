@@ -49,8 +49,7 @@ const Contact = () => {
               {personalInfo.email2}
             </p>
           </button>
-          
-          {/* Phone Card */}
+          {/* Phone Card 
           <button 
             onClick={handlePhoneClick}
             className="group bg-white dark:bg-gray-800 p-6 rounded-2xl border border-gray-200 dark:border-gray-700 hover:shadow-2xl hover:-translate-y-2 hover:border-green-300 transition-all duration-500 text-center min-h-[200px] flex flex-col justify-center"
@@ -60,8 +59,7 @@ const Contact = () => {
             </div>
             <h3 className="text-lg font-bold mb-3 group-hover:text-green-600 transition-colors duration-300">{t('contact.phone')}</h3>
             <p className="text-sm text-gray-600 dark:text-gray-300 group-hover:text-gray-800 dark:group-hover:text-gray-200 transition-colors duration-300">{personalInfo.phone}</p>
-          </button>
-          
+          </button>*/}
           {/* LinkedIn Card */}
           <button 
             onClick={handleLinkedInClick}
