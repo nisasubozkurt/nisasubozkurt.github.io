@@ -1,14 +1,15 @@
 {
   "name": "nisasu-portfolio",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "homepage": "https://kullaniciadi.github.io/nisasu-portfolio",
   "dependencies": {
-    "@testing-library/dom": "^10.4.1",
-    "@testing-library/jest-dom": "^6.8.0",
-    "@testing-library/react": "^16.3.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -16,7 +17,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "dev": "react-scripts start",
+    "preview": "serve -s build"
   },
   "eslintConfig": {
     "extends": [
@@ -35,5 +40,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.19",
+    "autoprefixer": "^10.4.21",
+    "gh-pages": "^4.0.0",
+    "postcss": "^8.5.6",
+    "serve": "^14.2.0",
+    "tailwindcss": "^3.4.17"
+  },
+  "description": "portfolio",
+  "main": "index.js",
+  "author": "nisasubozkurt",
+  "license": "ISC",
+  "keywords": [
+    "portfolio"
+  ]
 }
