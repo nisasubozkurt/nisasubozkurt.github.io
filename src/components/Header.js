@@ -81,13 +81,14 @@ const Header = ({
             </button>
             
             {/* Download Resume Button */}
-            <button 
-              onClick={handleDownloadResume}
-              className="px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl hover:shadow-xl transition-all duration-300 hover:scale-105 flex items-center gap-2 ml-4"
-            >
+            <a 
+                href="/resume.pdf" 
+                download="Nisasu_Bozkurt_Resume.pdf"
+                className="px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl hover:shadow-xl transition-all duration-300 hover:scale-105 flex items-center gap-2 ml-4"
+              >
               <Download size={18} />
               {t('nav.resume')}
-            </button>
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
