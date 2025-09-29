@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.6b8eed5b.css",
-    "main.js": "/static/js/main.b4d41e4a.js",
+    "main.js": "/static/js/main.22fac95d.js",
     "static/media/nisasu_bozkurt.jpg": "/static/media/nisasu_bozkurt.a2c92896c982e9eff763.jpg",
     "index.html": "/index.html",
     "main.6b8eed5b.css.map": "/static/css/main.6b8eed5b.css.map",
-    "main.b4d41e4a.js.map": "/static/js/main.b4d41e4a.js.map"
+    "main.22fac95d.js.map": "/static/js/main.22fac95d.js.map"
   },
   "entrypoints": [
     "static/css/main.6b8eed5b.css",
-    "static/js/main.b4d41e4a.js"
+    "static/js/main.22fac95d.js"
   ]
 }
