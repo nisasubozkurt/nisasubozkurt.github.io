@@ -222,7 +222,7 @@ export const translations = {
         'Görüntü İşleme Geliştiricisi',
         'Jr. Product Owner'
       ],
-      description: 'Son teknoloji yapay zeka çözümleri ve yenilikçi yazılım geliştirme ile endüstrileri dönüştürüyorum. Makine öğrenmesi, görüntü işleme ve kurumsal yapay zeka sistemlerinde uzmanlaştım.',
+      description: 'Son teknoloji yapay zeka çözümleri ve yenilikçi yazılım geliştirme yaklaşımlarıyla endüstrileri dönüştürüyor; makine öğrenmesi, görüntü işleme ve kurumsal yapay zeka sistemlerinde uzmanlaşıyorum.',
       viewMyWork: 'Çalışmalarımı İncele',
       getInTouch: 'İletişime Geç',
       stats: {
