@@ -261,8 +261,8 @@ export const experiences = [
       tr: 'Program'
     },
     description: {
-      en: 'Selected for prestigious women in AI program, developing accessibility solutions using computer vision technologies for hearing-impaired citizens.',
-      tr: 'Prestijli kadınlar yapay zeka programına seçildim, işitme engelli vatandaşlar için görüntü işleme teknolojileri kullanarak erişilebilirlik çözümleri geliştiriyorum.'
+      en: 'As part of the HopiGreen Project, I developed an innovative sustainability technology that focuses on preventing textile waste by encouraging users recycling and zero-waste habits.',
+      tr: 'HopiGreen Projesi kapsamında, kullanıcıların geri dönüşüm ve sıfır atık alışkanlıklarını teşvik ederek tekstil atığını önlemeye odaklanan yenilikçi bir sürdürülebilirlik teknolojisi geliştirdim.'
     },
      highlights: {
        en: [
@@ -353,8 +353,8 @@ export const experiences = [
       tr: 'Girişimcilik programı'
     },
     description: {
-      en: 'Founded and led innovative educational technology platform focused on sustainable learning solutions.',
-      tr: 'Yenilikçi öğrenim çözümleri odaklanmış öğrenim teknolojisi platformu kurdu ve liderliyorum.'
+      en: 'I developed solutions in the field of innovative learning technologies by winning 1st place with Smart Farm in the Advanced Entrepreneurship Stage with my Learneco Learning Ecosystem initiative, and by bringing technology and sustainability together with the Sendeo 7/24 case in the Aygaz Hackathon, I won 3rd place.',
+      tr: 'Learneco Learning Ecosystem girişimimle İleri Seviye Girişimcilik Sahnesi’nde Smart Farm ile 1.’lik elde edip, Aygaz Hackathonu’nda Sendeo 7/24 vakası ile teknoloji ve sürdürülebilirliği yine bir araya getirerek 3.’lük elde ederek yenilikçi öğrenim teknolojileri alanında çözümler geliştirdim.'
     },
     highlights: {
       en: [
@@ -391,8 +391,8 @@ export const experiences = [
       tr: 'Program'
     },
     description: {
-      en: 'Participated as a trainee in Google’s Game and Application Academy, where I developed mobile and web applications throughout the program.',
-      tr: 'Google\'un Oyun ve Uygulama Akademisinde katılımcı olarak yer aldım, bu süreçte mobil uygulamalar ve web uygulamaları geliştiriyorum.'
+      en: 'I achieved significant success with two different projects I developed with my team as part of Google\'s Games and Apps Academy. Our OUA Project, which aims to improve the participant experience, earned us first place in the 2023 App Jam. With our social responsibility-focused ReadMe app, we offered an innovative solution that supports reading habits while also contributing to the nutrition of shelter animals. We also placed among the top seven finalists out of 154 projects in the Google finals.',
+      tr: 'Google\'ın Oyun ve Uygulama Akademisi kapsamında ekibimle birlikte geliştirdiğimiz iki farklı proje ile önemli başarılar elde ettim. Katılımcı deneyimini iyileştirmeyi hedefleyen OUA Projesi ile 2023 App Jam’de 1.’lik ödülüne layık görüldük. Sosyal sorumluluk odaklı ReadMe Uygulaması ile ise kitap okuma alışkanlığını desteklerken barınak hayvanlarının beslenmesine katkı sağlayan yenilikçi bir çözüm sunduk ve Google tarafından düzenlenen finallerde 154 proje arasından ilk 7 finalist arasına girme başarısını gösterdik.'
     },
     highlights: {
       en: [
@@ -428,8 +428,8 @@ export const experiences = [
       tr: 'Staj'
     },
     description: {
-      en: 'Participated as a trainee in Google’s Game and Application Academy, where I developed mobile and web applications throughout the program.',
-      tr: 'Google\'un Oyun ve Uygulama Akademisinde katılımcı olarak yer aldım, bu süreçte mobil uygulamalar ve web uygulamaları geliştiriyorum.'
+      en: 'At Elasoft, I developed a holiday booking website from start to finish by undertaking database integration and interface development processes within the scope of the Traversal Core project.',
+      tr: 'Elasoft firmasında, Traversal Core projesi kapsamında veri tabanı entegrasyonu ve arayüz geliştirme süreçlerini üstlenerek baştan sona bir tatil rezervasyon sitesi geliştirdim.'
     },
     highlights: {
       en: [
